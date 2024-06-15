@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ByteBytey
-- 👀 I’m interested in ...coding....
+- 👀 I’m interested in ...coding, also solving problems.
 - 🌱 I’m currently learning ... javascript, trying to learn typescript for react
 - 💞️ I’m looking to collaborate on ... help to improve my code ...
 - 📫 How to reach me ... Discord: (d_tw0) or userid = 798330081138442310
-- 😄 Pronouns: and etc...
+- 😄 Pronouns: he/him
+- btw im 14
+- 
 
 <!---
 ByteBytey/ByteBytey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
