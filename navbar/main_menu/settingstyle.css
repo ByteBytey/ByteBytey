@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(black, grey);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+nav{
+    display: flex;
+    border-width: 3px;
+    position: fixed;
+    font-family: sans-serif;
+    font-size: 30px;
+    
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
+button{
+    height: 30px;
+    margin: 10px;
+    border-style:hidden;
+    border-radius: 150px;
+}
+button:hover{
+    background-color: lightgrey;
+}
+button:active{
+    background-color: rgb(231, 226, 226);
+}

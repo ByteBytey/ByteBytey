@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(black, grey);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: sans-serif;
+
+}
+nav{
+    display: flex;
+    border-width: 3px;
+    position: fixed;
+    font-family: sans-serif;
+    font-size: 30px;
+    
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
