@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding, also solving problems.
 - 🌱 I’m currently learning ... javascript, trying to learn typescript for react
 - 💞️ I’m looking to collaborate on ... help to improve my code ...
-- 📫 How to reach me ... Discord: (d_tw0) or userid = 798330081138442310
+- 📫 How to reach me ... here
 - 😄 Pronouns: he/him
 - btw im 14
 - 
